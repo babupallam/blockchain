@@ -11,4 +11,4 @@ steps:
 	In teminal four: npm run node_4
 	In teminal five: npm run node_5
 	In teminal six: npm run node_6
-## Use postman to query to any one of the node. Here (we see use Postman-linux-x64-6.1.3)
+## Use postman to query to any one of the node. Here, we use Postman-linux-x64-6.1.3.
