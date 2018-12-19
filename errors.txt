@@ -1,0 +1,5 @@
+1.	registration to same node itself is getting updated..
+	ie. node1 to node1 while registering the list is updated with same node.
+
+2.	Killing ports:
+		sudo kill `sudo lsof -t -i:3001`
